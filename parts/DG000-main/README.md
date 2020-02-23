@@ -1,14 +1,12 @@
 # DG000-main
 
-## Version
+## Informations
 
-`1.0`
+**Version**: `1.0`
 
-## Reference
+**Reference**: `DG000-main`
 
-`DG000-main`
-
-Name: Desk grommet
+**Name**: `Desk grommet`
 
 ## Printing details
 
