@@ -10,9 +10,9 @@
 
 ## Printing details
 
-|Infill   |Supports   |Rafts   |Resolution   |Filament   |
-|-        |-          |-       |-            |-          |
-|17%      |NO         |NO      |0.20mm       |PLA        |
+|Infill   |Supports         |Rafts            |Resolution   |Filament   |
+|-        |-                |-                |-            |-          |
+|17%      |Doesn't matter   |Doesn't matter   |0.20mm       |PLA        |
 
 ## Images
 
