@@ -26,7 +26,7 @@ This part is designed for a ø75mm hole.
 
 ## Platforms
 
-- [Thingiverse](https://)
+- [Thingiverse](https://www.thingiverse.com/thing:4179377)
 
 ## Licence
 
