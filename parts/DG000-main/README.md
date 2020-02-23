@@ -1,4 +1,4 @@
-# DG000-main
+# DG000-main (Desk grommet)
 
 ## Informations
 
@@ -16,6 +16,6 @@
 
 ## Images
 
-![DG000-main](./img-1.png)
+![img-1](./img-1.png)
 
-![DG000-main](./img-2.jpg)
+![img-2](./img-2.jpg)
