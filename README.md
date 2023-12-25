@@ -34,7 +34,7 @@ This part is designed for a ø75mm hole.
 ## Platforms
 
 - [Thingiverse](https://www.thingiverse.com/thing:4179377)
-- [Cults3D](https://cults3d.com/fr/mod%C3%A8le-3d/maison/habbi-lamp-shade)
+- [Cults3D](https://cults3d.com/fr/mod%C3%A8le-3d/gadget/desk-grommet-passe-cable-bureau)
 
 ## Licence
 
